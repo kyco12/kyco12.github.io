@@ -5,6 +5,7 @@ function GUI(_width, _height){
     this.height = _height
     this.controls = [] // maybe dont use
     this.animated = false
+    
 
     //global gui control declarations
     this.add_p_btn = createButton("+")
