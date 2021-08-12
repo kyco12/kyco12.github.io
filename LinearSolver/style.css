@@ -1,0 +1,53 @@
+@font-face {
+    font-family: bitFont;
+    src: url(fonts/slkscr.ttf);
+}
+
+/* Styling for text output elements*/
+#console {
+    font-family: bitFont;
+}
+
+
+/*Styling for textFields*/
+.input_field {
+    font-family: bitFont;
+    height: 20px;
+}
+
+/* Styling for button elements*/
+.buttons {
+    font-family: bitFont, Helvetica;
+    font-size: 26pt;
+    height: 50px;
+    position:absolute;
+    transition: 0.75s ease;
+}
+
+#clear_btn {
+    background-color: aqua;
+    top: 5%;
+    left: 10%;
+}
+
+#add_btn{
+    background-color: aquamarine;
+    top: 30%;
+    left: 10%;
+}
+
+#delete_btn {
+    background-color: blueviolet;
+    top: 30%;
+    left: 50%;
+}
+
+#solve_btn {
+    background-color: antiquewhite;
+    top: 30%;
+    left: 30%;
+}
+
+.header{
+    font-family: bitFont;
+}
