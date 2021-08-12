@@ -18,34 +18,34 @@
 /* Styling for button elements*/
 .buttons {
     font-family: bitFont, Helvetica;
-    font-size: 26pt;
-    height: 50px;
+    font-size: 18pt;
+    height: 36px;
     position:absolute;
     transition: 0.75s ease;
 }
 
 #clear_btn {
     background-color: aqua;
-    top: 5%;
-    left: 10%;
+    top: 30%;
+    left: 60%;
 }
 
 #add_btn{
     background-color: aquamarine;
     top: 30%;
-    left: 10%;
+    left: 20%;
 }
 
 #delete_btn {
     background-color: blueviolet;
     top: 30%;
-    left: 50%;
+    left: 32.5%;
 }
 
 #solve_btn {
     background-color: antiquewhite;
     top: 30%;
-    left: 30%;
+    left: 47%;
 }
 
 .header{
